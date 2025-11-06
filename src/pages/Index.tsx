@@ -110,7 +110,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground py-6 text-center mt-12">
         <p className="text-sm opacity-80">
-          Experience history through cuisine at New and Old World Café
+          Arnav Nemade, Kavin Elangovan, Krish, Group 26 WHAP Project 11/6/25
         </p>
       </footer>
     </div>
